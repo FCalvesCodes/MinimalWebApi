@@ -1,2 +1,2 @@
 # Minimal Web Api
-APIs mínimas são arquitetadas para criar APIs HTTP com dependências mínimas. Eles são ideais para microsserviços e aplicativos que desejam incluir apenas os arquivos, recursos e dependências mínimos no ASP.NET Core.
+Essa é uma pequena api usando os recursos novos do .NET 6 e C# 10. Minimal APIs é um recurso muito legal onde você consegue escrever APIs de maneira minimalista, essa é uma demostração básica para fins didáctico.
